@@ -3,7 +3,7 @@ package main.java.brownbelt;
 import java.util.Arrays;
 import java.util.Random;
 
-public class OptimisingFarthestDifference {
+public class OptimisingFarthestDifferent {
 
     public static void main(String[] args) {
         int passed = 0, total = 0;
@@ -97,7 +97,7 @@ public class OptimisingFarthestDifference {
     }
 
     
-    private static int solution(int[] A) {
+    public static int solution(int[] A) {
         int N = A.length;
         int result = 0;
 
