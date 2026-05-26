@@ -101,7 +101,7 @@ public class ClosestDigitSwap {
                 ok ? "PASS" : "FAIL", name, actual, expected);
         return ok ? 1 : 0;
     }
-    private static int solution(String S, String T) {
+    public static int solution(String S, String T) {
         int N = S.length();
         long carry = 0;
         int swaps = 0;
