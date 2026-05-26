@@ -1,6 +1,6 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
-public class recyclingTrucks {
+public class RecyclingTrucks {
 
     public static void main(String[] args) {
         

@@ -1,9 +1,9 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
 import java.math.BigInteger;
 import java.util.Random;
 
-public class closestDigitSwap {
+public class ClosestDigitSwap {
     
     public static void main(String[] args) {
         int passed = 0, total = 0;

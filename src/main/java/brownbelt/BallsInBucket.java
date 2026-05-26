@@ -1,6 +1,6 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
-public class ballsInBucket {
+public class BallsInBucket {
 
     public static void main(String[] args) {
         int passed = 0;
@@ -68,7 +68,7 @@ public class ballsInBucket {
         return ok ? 1 : 0;
     }
 
-    private static int solution(String buckets) {
+    public static int solution(String buckets) {
         int n = buckets.length();
         int K = 0;
         for (int i = 0; i < n; i++) if (buckets.charAt(i) == 'B') K++;

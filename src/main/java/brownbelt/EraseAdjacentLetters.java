@@ -1,6 +1,6 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
-public class eraseAdjacentLetters {
+public class EraseAdjacentLetters {
 
     public static void main(String[] args) {
         int passed = 0, total = 0;

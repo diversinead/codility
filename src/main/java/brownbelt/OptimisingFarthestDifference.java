@@ -1,9 +1,9 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class optimizingFarthestDifference {
+public class OptimisingFarthestDifference {
 
     public static void main(String[] args) {
         int passed = 0, total = 0;

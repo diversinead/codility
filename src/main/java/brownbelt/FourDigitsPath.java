@@ -1,6 +1,6 @@
-package main.java.brown_belt;
+package main.java.brownbelt;
 
-public class fourDigitsPath {
+public class FourDigitsPath {
 
     private static int N, M;
     private static int[][] board;
